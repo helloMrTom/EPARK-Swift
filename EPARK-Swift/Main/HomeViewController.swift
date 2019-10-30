@@ -36,7 +36,6 @@ class HomeViewController: EPBaseViewController {
     }
 
     // MARK:- SET UI
-
     func setHomePageUI(){
         
         self.tableView.snp.makeConstraints { (make) in
