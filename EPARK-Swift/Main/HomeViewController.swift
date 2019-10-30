@@ -39,6 +39,13 @@ class HomeViewController: EPBaseViewController {
     
     func setHomePageUI(){
         
+        let button = UIButton(type: .custom)
+        self.view.addSubview(button)
+        button.snp.makeConstraints { (make) in
+            make.top.left.width.equalToSuperview()
+            make.height.equalTo(40)
+        }
+        
         self.tableView.snp.makeConstraints { (make) in
             make.top.left.equalToSuperview()
             make.width.equalTo(EPAPPWidth)
