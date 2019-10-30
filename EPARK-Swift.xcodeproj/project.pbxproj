@@ -236,7 +236,6 @@
 		522C0AA32362CAA5003AC5E5 /* Config */ = {
 			isa = PBXGroup;
 			children = (
-				522C0A912362CA41003AC5E5 /* DiscoverViewController.swift */,
 				522C0A7E2362C9FA003AC5E5 /* CoreGraphics.swift */,
 				522C0A7D2362C9FA003AC5E5 /* GlobalConfig.swift */,
 			);
