@@ -157,7 +157,7 @@
 				522C0A4A2362C980003AC5E5 /* AppDelegate.swift */,
 				522C0A4C2362C980003AC5E5 /* SceneDelegate.swift */,
 				523E85532362D5210068E9B4 /* Extension */,
-				522C0AA32362CAA5003AC5E5 /* Config */,
+				522C0AA32362CAA5003AC5E5 /* Configeeeee */,
 				522C0A9B2362CA4F003AC5E5 /* BaseView */,
 				522C0A9C2362CA56003AC5E5 /* BaseViewController */,
 				522C0A902362CA41003AC5E5 /* Main */,
@@ -233,13 +233,13 @@
 			path = BaseViewController;
 			sourceTree = "<group>";
 		};
-		522C0AA32362CAA5003AC5E5 /* Config */ = {
+		522C0AA32362CAA5003AC5E5 /* Configeeeee */ = {
 			isa = PBXGroup;
 			children = (
 				522C0A7E2362C9FA003AC5E5 /* CoreGraphics.swift */,
 				522C0A7D2362C9FA003AC5E5 /* GlobalConfig.swift */,
 			);
-			path = Config;
+			path = Configeeeee;
 			sourceTree = "<group>";
 		};
 		523E85532362D5210068E9B4 /* Extension */ = {
