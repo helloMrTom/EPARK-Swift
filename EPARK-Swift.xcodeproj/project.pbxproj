@@ -206,7 +206,6 @@
 		522C0A902362CA41003AC5E5 /* Main */ = {
 			isa = PBXGroup;
 			children = (
-				522C0A912362CA41003AC5E5 /* DiscoverViewController.swift */,
 				522C0A922362CA41003AC5E5 /* MyViewController.swift */,
 				522C0A932362CA41003AC5E5 /* HomeViewController.swift */,
 				522C0A942362CA41003AC5E5 /* SpaceViewController.swift */,
@@ -225,6 +224,7 @@
 		522C0A9C2362CA56003AC5E5 /* BaseViewController */ = {
 			isa = PBXGroup;
 			children = (
+				522C0A912362CA41003AC5E5 /* DiscoverViewController.swift */,
 				523E85512362D46C0068E9B4 /* EPNavigationPublic.swift */,
 				522C0A9D2362CA56003AC5E5 /* EPBaseViewController.swift */,
 				522C0A9E2362CA56003AC5E5 /* EPTabBarController.swift */,
