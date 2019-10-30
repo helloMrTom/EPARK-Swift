@@ -228,7 +228,6 @@
 				522C0A9D2362CA56003AC5E5 /* EPBaseViewController.swift */,
 				522C0A9E2362CA56003AC5E5 /* EPTabBarController.swift */,
 				52F125E42367D84A00385B67 /* EPWebViewController.swift */,
-				522C0A912362CA41003AC5E5 /* DiscoverViewController.swift */,
 			);
 			path = BaseViewController;
 			sourceTree = "<group>";
@@ -236,6 +235,7 @@
 		522C0AA32362CAA5003AC5E5 /* Config */ = {
 			isa = PBXGroup;
 			children = (
+				522C0A912362CA41003AC5E5 /* DiscoverViewController.swift */,
 				522C0A7E2362C9FA003AC5E5 /* CoreGraphics.swift */,
 				522C0A7D2362C9FA003AC5E5 /* GlobalConfig.swift */,
 			);
